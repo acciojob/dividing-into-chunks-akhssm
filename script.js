@@ -20,6 +20,7 @@ const divide = (arr, n) => {
   if (current.length > 0) {
     result.push(current);
   }
+	return result;
 	
 };
 
